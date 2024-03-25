@@ -4,7 +4,7 @@ Loom Recording Link:
 
 Example 1 Link: https://www.loom.com/share/80fddd58e47d41b3b0b9a9f9229fd701?sid=e86f3f19-c9ca-45e5-8495-3ddb05ed272d
 
-Example 2 Link: 
+Example 2 Link: https://www.loom.com/share/e8862406c3f1477f937ac490623f37ef?sid=45c06bb1-fa49-41fe-9605-34d06cfd88ca
 
 # Project Overview
 
